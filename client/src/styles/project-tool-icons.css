@@ -1,0 +1,18 @@
+.project-tool-icon {
+  width: 2rem;
+  height: 2rem;
+}
+
+.project-tool-icon-text {
+  font-size: 16px;
+}
+
+@media (min-width: 1024px) {
+  .project-tool-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .project-tool-icon-text {
+    font-size: 18px;
+  }
+}

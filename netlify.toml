@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"          # or "20" if you prefer
+  NPM_CONFIG_OPTIONAL = "true" # make sure optional deps are installed
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

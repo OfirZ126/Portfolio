@@ -1,0 +1,6 @@
+.category-btn:focus,
+.category-btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
