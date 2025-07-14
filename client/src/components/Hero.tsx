@@ -110,7 +110,7 @@ const Hero = () => {
                 <h1 className="text-white text-3xl sm:text-4xl md:text-5xl font-black leading-tight tracking-tight">
                   אופיר זנגי
                 </h1>
-                <p className="text-white text-sm sm:text-base font-normal leading-relaxed max-w-prose">
+                <p className="text-white font-normal leading-relaxed max-w-prose" style={{ fontSize: '16px' }}>
                   אני מנהל דיגיטל המתמחה בבניית אתרים מרשימים בוורדפרס. מהקונספט ועד ליישום, אני מתמקד ביצירת נוכחות אינטרנטית מעניינת שמביאה תוצאות. עם רקע חזק ב-SEO ואסטרטגיית תוכן, אני מבטיח שכל אתר שאני בונה לא רק נראה נהדר אלא גם מדורג גבוה במנועי חיפוש.
                 </p>
               </div>

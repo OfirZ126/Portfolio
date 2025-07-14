@@ -36,7 +36,7 @@
   height: 100%;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1px;
   background: white;
   -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
@@ -77,7 +77,7 @@
   position: absolute;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   color: black;
   z-index: 22;
   pointer-events: none;
@@ -129,20 +129,20 @@ form .mask-button-container {
 
 form .mask-button,
 form .mask-text {
-  font-size: 13px;
+  font-size: 16px;
 }
 
 @media (min-width: 640px) {
   form .mask-button,
   form .mask-text {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
 @media (min-width: 1024px) {
   form .mask-button,
   form .mask-text {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
